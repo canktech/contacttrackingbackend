@@ -1,4 +1,3 @@
-# contacttrackingbackend
 # Galileo Flamingo GNSS Hackathon 22 March 2020
 
 ## Contact tracing helps slow down the rate of a pandemic. 
