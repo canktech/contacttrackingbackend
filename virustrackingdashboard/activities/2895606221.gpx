@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX Android" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <time>2019-11-27T18:44:47Z</time>
+ </metadata>
+ <trk>
+  <name>Approach_4_3</name>
+  <type>4</type>
+  <trkseg>
+   <trkpt lat="51.5244530" lon="-0.3235880">
+    <ele>27.2</ele>
+    <time>2019-11-27T18:44:47Z</time>
+   </trkpt>
+   <trkpt lat="51.5244890" lon="-0.3236000">
+    <ele>27.6</ele>
+    <time>2019-11-27T18:44:49Z</time>
+   </trkpt>
+   <trkpt lat="51.5244640" lon="-0.3235800">
+    <ele>27.8</ele>
+    <time>2019-11-27T18:45:01Z</time>
+   </trkpt>
+   <trkpt lat="51.5244200" lon="-0.3235610">
+    <ele>28.2</ele>
+    <time>2019-11-27T18:45:05Z</time>
+   </trkpt>
+   <trkpt lat="51.5243860" lon="-0.3235420">
+    <ele>28.5</ele>
+    <time>2019-11-27T18:45:07Z</time>
+   </trkpt>
+   <trkpt lat="51.5243540" lon="-0.3235090">
+    <ele>28.7</ele>
+    <time>2019-11-27T18:45:11Z</time>
+   </trkpt>
+   <trkpt lat="51.5243290" lon="-0.3234830">
+    <ele>28.9</ele>
+    <time>2019-11-27T18:45:14Z</time>
+   </trkpt>
+   <trkpt lat="51.5242980" lon="-0.3234550">
+    <ele>29.2</ele>
+    <time>2019-11-27T18:45:18Z</time>
+   </trkpt>
+   <trkpt lat="51.5242650" lon="-0.3234280">
+    <ele>29.4</ele>
+    <time>2019-11-27T18:45:22Z</time>
+   </trkpt>
+   <trkpt lat="51.5242340" lon="-0.3234080">
+    <ele>29.6</ele>
+    <time>2019-11-27T18:45:25Z</time>
+   </trkpt>
+   <trkpt lat="51.5241990" lon="-0.3233860">
+    <ele>29.8</ele>
+    <time>2019-11-27T18:45:30Z</time>
+   </trkpt>
+   <trkpt lat="51.5241670" lon="-0.3233640">
+    <ele>30.0</ele>
+    <time>2019-11-27T18:45:33Z</time>
+   </trkpt>
+   <trkpt lat="51.5241420" lon="-0.3233440">
+    <ele>30.1</ele>
+    <time>2019-11-27T18:45:35Z</time>
+   </trkpt>
+   <trkpt lat="51.5241030" lon="-0.3233240">
+    <ele>30.3</ele>
+    <time>2019-11-27T18:45:39Z</time>
+   </trkpt>
+   <trkpt lat="51.5240740" lon="-0.3233310">
+    <ele>30.5</ele>
+    <time>2019-11-27T18:45:42Z</time>
+   </trkpt>
+   <trkpt lat="51.5240510" lon="-0.3233680">
+    <ele>30.7</ele>
+    <time>2019-11-27T18:45:47Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
